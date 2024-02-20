@@ -1,2 +1,2 @@
-# palabra_magica
-Script para resolver el pasatiempos de El País "Palabra Mágica"
+# Búsqueda palabras
+Script que replica esta página: https://www.palabrasque.com/
