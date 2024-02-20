@@ -1,0 +1,1 @@
+ruta_diccionario = 'palabra_magica/recursos/diccionario.txt'
